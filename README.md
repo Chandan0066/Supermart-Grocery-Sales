@@ -49,13 +49,8 @@ The dataset contains over 9,000 grocery orders with the following key features:
 
 ## 📦 Deliverables
 
-- `Supermart_Grocery_Sales_Cleaned.xlsx`: Cleaned dataset with time features
-- `supermart_sales_analysis.ipynb`: Full ML code and EDA
-- `Supermart_Sales_SQL.sql`: SQL queries for business insights
+- `Supermart_Grocery_Sales_cleaned.xlsx`: Cleaned dataset with time features
+- `supermart_Grocery_Sales_ML.ipynb`: Full ML code and EDA
+- `Supermart_Grocery_Sales_SQL.sql`: SQL queries for business insights
 - `Supermart_Grocery_Sales_Project_Report.pptx`: Final report presentation
 
-## 📎 Future Improvements
-
-* Try Random Forest or XGBoost models
-* Tune hyperparameters for better accuracy
-* Build a Power BI dashboard for real-time sales tracking
